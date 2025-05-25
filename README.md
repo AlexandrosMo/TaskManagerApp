@@ -27,4 +27,4 @@ git clone https://github.com/yourusername/TaskManagerApp.git
 cd TaskManagerApp
 
 
-run python task_manager.py
+run python TaskManager.py
