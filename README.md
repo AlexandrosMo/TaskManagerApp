@@ -23,7 +23,7 @@ A desktop application built with Python and Tkinter that allows users to efficie
 2. Download or clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/TaskManagerApp.git
+git clone https://github.com/AlexandrosMo/TaskManagerApp.git
 cd TaskManagerApp
 
 
